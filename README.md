@@ -9,4 +9,4 @@ WRITEUP FOR CHALLAGE:
 
 ![embedding](https://github.com/dn9guy3n/ISITDTU_CTF_WRITEUP/tree/master/embedding)
 
-Cool
+![Cool](https://github.com/dn9guy3n/ISITDTU_CTF_WRITEUP/tree/master/writeup_Cool)
