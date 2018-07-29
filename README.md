@@ -6,5 +6,7 @@ ISITDTU CTF 2018 Quals
 Sat, 28 July 2018, 01:00 UTC — Sat, 28 July 2018, 19:00 UTC
 
 WRITEUP FOR CHALLAGE:
+
 embedding
+
 Cool
