@@ -13,4 +13,4 @@ Dùng Binwalk để extract file: ![#12365b](binwalk -e data_embedding.exe)
 ![screenshot 74](https://user-images.githubusercontent.com/21336403/43362721-654993d4-931b-11e8-9553-a72a1fe5c772.png)
 
 Mở file flag theo đường dẫn: ./fsroot/data_embeddi/flag.txt
-FLAG: ![#5b1212](ISDTU{Enc0d1ng_ph4s3_i5_t3rr1b3._.})
+FLAG: ![#5b1212]( ISDTU{Enc0d1ng_ph4s3_i5_t3rr1b3._.} )
