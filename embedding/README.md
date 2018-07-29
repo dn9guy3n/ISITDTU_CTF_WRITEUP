@@ -8,9 +8,9 @@ Matlab à? Nghe có vẻ khó đây. Mở hex Editor tìm cách chuỗi key nh�
 
 ![screenshot 73 _li](https://user-images.githubusercontent.com/21336403/43362650-e88498d6-9319-11e8-818a-f3749f973957.jpg)
 
-Dùng Binwalk để extract file: ![#12365b](binwalk -e data_embedding.exe)
+Dùng Binwalk để extract file: <style="color: #12365b"> ~# binwalk -e data_embedding.exe</style>
 
 ![screenshot 74](https://user-images.githubusercontent.com/21336403/43362721-654993d4-931b-11e8-9553-a72a1fe5c772.png)
 
 Mở file flag theo đường dẫn: ./fsroot/data_embeddi/flag.txt
-FLAG: ![#5b1212]( ISDTU{Enc0d1ng_ph4s3_i5_t3rr1b3._.} )
+FLAG: <font color="red"> ISDTU{Enc0d1ng_ph4s3_i5_t3rr1b3._.} </font>
